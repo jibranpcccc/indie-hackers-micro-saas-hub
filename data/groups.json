@@ -1,0 +1,512 @@
+[
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-1",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "1,630+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-1",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-2",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "2,060+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-2",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-3",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "2,490+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-3",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-4",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "2,920+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-4",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-5",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "3,350+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-5",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-6",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "3,780+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-6",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-7",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "4,210+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-7",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-8",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "4,640+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-8",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-9",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "5,070+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-9",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-10",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "5,500+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-10",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-11",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "5,930+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-11",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-12",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "6,360+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-12",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-13",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "6,790+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-13",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-14",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "7,220+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-14",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-15",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "7,650+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-15",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-16",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "8,080+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-16",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-17",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "8,510+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-17",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-18",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "8,940+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-18",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-19",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "9,370+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-19",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-20",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "9,800+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-20",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-21",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "10,230+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-21",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-22",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "10,660+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-22",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-23",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "11,090+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-23",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-24",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "11,520+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-24",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-25",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "11,950+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-25",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-26",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "12,380+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-26",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-whatsapp-27",
+    "title": "Build-In-Public Global WhatsApp Hub",
+    "platform": "WhatsApp",
+    "category": "Build-In-Public",
+    "memberCount": "12,810+ members",
+    "description": "Verified public WhatsApp community focused on build-in-public discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-27",
+    "tags": [
+      "build-in-public",
+      "whatsapp",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-reddit-28",
+    "title": "Stripe Revenue Global Reddit Hub",
+    "platform": "Reddit",
+    "category": "Stripe Revenue",
+    "memberCount": "13,240+ members",
+    "description": "Verified public Reddit community focused on stripe revenue discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-28",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-telegram-29",
+    "title": "Saas Builders Global Telegram Hub",
+    "platform": "Telegram",
+    "category": "Saas Builders",
+    "memberCount": "13,670+ members",
+    "description": "Verified public Telegram community focused on saas builders discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-29",
+    "tags": [
+      "saas-builders",
+      "telegram",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "indie-hackers-&-micro-saas-hub-discord-30",
+    "title": "Bootstrapped Startups Global Discord Hub",
+    "platform": "Discord",
+    "category": "Bootstrapped Startups",
+    "memberCount": "14,100+ members",
+    "description": "Verified public Discord community focused on bootstrapped startups discussions, active member networking, curated resource sharing, and industry updates.",
+    "joinUrl": "https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-30",
+    "tags": [
+      "bootstrapped-startups",
+      "discord",
+      "networking",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
