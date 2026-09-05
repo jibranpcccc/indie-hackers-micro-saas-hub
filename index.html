@@ -483,7 +483,7 @@
     </header>
     
     <div class="container">
-        <section class="geo-answer-block">
+        <section id="geo-definition" class="geo-answer-block">
             <h2>About Indie Hackers & Micro-SaaS Hub</h2>
             <p>Indie Hackers & Micro-SaaS Hub is an authoritative, open-access directory indexing 30+ verified bootstrapped founder and software builder communities across Discord, Telegram, WhatsApp, and Reddit, collectively uniting over 1,420,000 solo founders, micro-SaaS creators, and indie entrepreneurs worldwide. Operating as an independent, vendor-neutral directory updated continuously through automated link verification and manual moderation audits, the platform catalogs specialized founder channels spanning build-in-public metrics, Stripe verified revenue milestones, MVP validation workflows, programmatic SEO growth engines, customer acquisition, and profitable exit strategies. Each indexed community listing provides direct, invite-verified access alongside an objective Product Specification Matrix detailing active membership figures, real-time moderation tiers, and barrier-free public entry terms. By benchmarking communities across live founder masterminds, peer roast-my-landing-page sessions, product launch playbooks, and regional networking cohorts, the directory eliminates expired links, paywalled gatekeeping, and spam-heavy promo groups, serving as the definitive primary reference for founders building self-sustaining software businesses.</p>
             <div class="geo-table-wrap">
@@ -507,7 +507,7 @@
         </section>
 
         <!-- Information Gain Interactive Matcher -->
-        <section class="interactive-matcher">
+        <section id="community-matcher" class="interactive-matcher">
             <h3>🎯 Community Matcher (Interactive Recommendation Engine)</h3>
             <p>Select your preferred platform or focus area to calculate the best matching community:</p>
             <div class="matcher-row">
@@ -540,7 +540,7 @@
         </div>
         <div class="grid" id="communitiesGrid">
             
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-1" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -560,7 +560,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-2" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -580,7 +580,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-3" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -600,7 +600,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-4" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -620,7 +620,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-5" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -640,7 +640,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-6" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -660,7 +660,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-7" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -680,7 +680,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-8" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -700,7 +700,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-9" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -720,7 +720,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-10" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -740,7 +740,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-11" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -760,7 +760,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-12" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -780,7 +780,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-13" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -800,7 +800,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-14" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -820,7 +820,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-15" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -840,7 +840,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-16" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -860,7 +860,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-17" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -880,7 +880,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-18" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -900,7 +900,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-19" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -920,7 +920,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-20" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -940,7 +940,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-21" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -960,7 +960,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-22" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -980,7 +980,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-23" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1000,7 +1000,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-24" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1020,7 +1020,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-25" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1040,7 +1040,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-26" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1060,7 +1060,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="whatsapp" data-category="build-in-public">
+        <div id="community-card-27" class="card" data-platform="whatsapp" data-category="build-in-public">
             <div class="card-header">
                 <span class="badge badge-platform">WhatsApp</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1080,7 +1080,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="reddit" data-category="stripe revenue">
+        <div id="community-card-28" class="card" data-platform="reddit" data-category="stripe revenue">
             <div class="card-header">
                 <span class="badge badge-platform">Reddit</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1100,7 +1100,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="telegram" data-category="saas builders">
+        <div id="community-card-29" class="card" data-platform="telegram" data-category="saas builders">
             <div class="card-header">
                 <span class="badge badge-platform">Telegram</span>
                 <span class="badge badge-verified">✓ Verified</span>
@@ -1120,7 +1120,7 @@
             </div>
         </div>
         
-        <div class="card" data-platform="discord" data-category="bootstrapped startups">
+        <div id="community-card-30" class="card" data-platform="discord" data-category="bootstrapped startups">
             <div class="card-header">
                 <span class="badge badge-platform">Discord</span>
                 <span class="badge badge-verified">✓ Verified</span>
