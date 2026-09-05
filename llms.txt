@@ -3,13 +3,21 @@
 
 ## Key Navigation
 - [Indie Hackers & Micro-SaaS Hub Directory Index](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/): Searchable, filterable index of verified communities across Discord, Telegram, WhatsApp, and Reddit.
-- [About & Curation Standards](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/about.html): Vetting methodology, anti-spam filters, and quality benchmarks.
+- [About & Curation Standards](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/about.html): 4-tier vetting methodology, anti-spam filters, and quality benchmarks.
 - [Submit a Community](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/submit.html): Public submission portal for community admins and creators.
 - [Contact & DMCA Removal](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/contact.html): Direct operator inquiries, takedown requests, and partnerships.
-- [Privacy Policy](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/privacy.html): GDPR & CCPA privacy compliance disclosures.
-- [Terms of Service](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/terms.html): User agreement, third-party platform disclaimers, and liability terms.
+- [Privacy Policy](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/privacy.html): GDPR & CCPA zero-account privacy governance.
+- [Terms of Service](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/terms.html): Third-party platform disclaimers and limitation of liability.
 - [XML Sitemap](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/sitemap.xml): Complete machine-readable URL list and crawling priority directives.
 - [RSS Syndication Feed](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml): Real-time syndication feed for newly discovered groups and platform updates.
+
+## Key Facts
+- Total Communities: 30+ verified active communities
+- Reach & Network: Over 1,420,000 collective members and practitioners
+- Access Terms: 100% Free public entry (no paywalls, VIP charges, or token gating)
+- Verification SLA: 4-tier check (link liveness, spam moderation, organic velocity, human audit)
+- Update Cadence: Continuous 24-hour automated liveness sweeps
+- Supported Platforms: Discord, Telegram, WhatsApp, Reddit
 
 ## Coverage
 - Discord Servers: Real-time discussions, voice channels, events, and sub-groups.
