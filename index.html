@@ -428,11 +428,12 @@
         .activity-pulse { font-size: 0.82rem; color: #10b981; display: flex; align-items: center; gap: 6px; font-weight: 600; }
         .pulse-dot { width: 8px; height: 8px; border-radius: 50%; background: #10b981; box-shadow: 0 0 10px #10b981; }
 
+        html, body { overflow-x: hidden; }
         .card-actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-        .btn-copy-invite { background: rgba(255,255,255,0.06); color: var(--muted); border: 1px solid var(--border); padding: 8px 14px; border-radius: 20px; font-size: 0.82rem; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+        .btn-copy-invite { background: rgba(255,255,255,0.06); color: var(--muted); border: 1px solid var(--border); padding: 8px 14px; border-radius: 20px; font-size: 0.82rem; font-weight: 600; cursor: pointer; transition: all 0.2s; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; }
         .btn-copy-invite:hover { background: rgba(255,255,255,0.14); color: #fff; }
         .btn-copy-invite.copied { background: rgba(16, 185, 129, 0.2); color: #10b981; border-color: #10b981; }
-        .btn-join { display: inline-block; background: linear-gradient(135deg, var(--accent), var(--accent-pink)); color: #fff; text-decoration: none; padding: 8px 18px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; transition: transform 0.2s; box-shadow: 0 4px 12px rgba(236,72,153,0.25); }
+        .btn-join { display: inline-flex; align-items: center; justify-content: center; background: linear-gradient(135deg, var(--accent), var(--accent-pink)); color: #fff; text-decoration: none; padding: 8px 18px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; transition: transform 0.2s; box-shadow: 0 4px 12px rgba(236,72,153,0.25); min-height: 44px; }
         .btn-join:hover { transform: translateY(-1px); opacity: 0.95; }
 
         footer { border-top: 1px solid var(--border); margin-top: 65px; padding: 50px 20px 30px; }
@@ -560,7 +561,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-1')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-1')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-1')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-1" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-1" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -583,7 +584,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-2')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-2')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-2')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-2" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-2" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -606,7 +607,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-3')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-3')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-3')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-3" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-3" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -629,7 +630,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-4')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-4')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-4')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-4" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-4" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -652,7 +653,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-5')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-5')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-5')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-5" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-5" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -675,7 +676,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-6')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-6')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-6')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-6" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-6" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -698,7 +699,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-7')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-7')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-7')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-7" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-7" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -721,7 +722,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-8')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-8')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-8')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-8" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-8" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -744,7 +745,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-9')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-9')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-9')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-9" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-9" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -767,7 +768,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-10')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-10')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-10')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-10" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-10" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -790,7 +791,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-11')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-11')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-11')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-11" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-11" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -813,7 +814,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-12')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-12')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-12')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-12" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-12" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -836,7 +837,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-13')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-13')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-13')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-13" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-13" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -859,7 +860,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-14')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-14')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-14')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-14" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-14" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -882,7 +883,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-15')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-15')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-15')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-15" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-15" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -905,7 +906,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-16')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-16')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-16')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-16" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-16" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -928,7 +929,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-17')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-17')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-17')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-17" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-17" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -951,7 +952,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-18')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-18')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-18')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-18" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-18" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -974,7 +975,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-19')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-19')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-19')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-19" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-19" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -997,7 +998,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-20')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-20')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-20')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-20" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-20" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1020,7 +1021,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-21')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-21')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-21')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-21" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-21" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1043,7 +1044,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-22')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-22')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-22')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-22" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-22" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1066,7 +1067,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-23')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-23')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-23')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-23" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-23" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1089,7 +1090,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-24')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-24')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-24')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-24" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-24" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1112,7 +1113,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-25')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-25')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-25')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-25" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-25" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1135,7 +1136,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-26')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-26')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-26')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-26" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-26" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1158,7 +1159,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-27')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-27')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-27')">📋 Copy Invite</button><a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-27" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://whatsapp.com/community/indie-hackers-&-micro-saas-hub-whatsapp-27" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1181,7 +1182,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-28')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-28')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-28')">📋 Copy Invite</button><a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-28" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://reddit.com/community/indie-hackers-&-micro-saas-hub-reddit-28" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1204,7 +1205,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-29')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-29')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-29')">📋 Copy Invite</button><a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-29" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://telegram.com/community/indie-hackers-&-micro-saas-hub-telegram-29" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1227,7 +1228,7 @@
                 <span class="activity-pulse"><span class="pulse-dot"></span> Live Channel</span>
                 <div class="card-actions">
                     <button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-30')">📋 Copy Invite Link</button>
-                    <div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-30')">📋 Copy Invite</button><div class="card-actions"><button class="btn-copy-invite" onclick="copyInviteLink(event, 'https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-30')">📋 Copy Invite</button><a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-30" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a></div></div>
+                    <a href="https://discord.com/community/indie-hackers-&-micro-saas-hub-discord-30" target="_blank" rel="noopener noreferrer" class="btn-join">Join Community →</a>
                 </div>
             </div>
         </div>
@@ -1327,64 +1328,17 @@
                 filterCards();
             });
         });
-    </script>
 
-    <script>
         // Copy Invite Link with Interactive Feedback
-    function copyInviteLink(event, url) {
-        if (event && event.preventDefault) event.preventDefault();
-        if (event && event.stopPropagation) event.stopPropagation();
-        var targetUrl = (typeof event === 'string') ? event : url;
-        var btn = (typeof event === 'string') ? url : (event ? (event.currentTarget || event.target) : null);
-        if (!btn && typeof this !== 'undefined') btn = this;
-        if (btn && btn.closest) {
-            btn = btn.closest('.btn-copy-invite') || btn;
-        }
-        if (!targetUrl || targetUrl === '#') return;
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-            navigator.clipboard.writeText(targetUrl).then(function() {
-                if (btn) {
-                    var origHtml = btn.innerHTML;
-                    btn.innerHTML = '<span>✓ Copied!</span>';
-                    btn.classList.add('copied');
-                    setTimeout(function() {
-                        btn.innerHTML = origHtml;
-                        btn.classList.remove('copied');
-                    }, 2000);
-                }
-            }).catch(function() {
-                window.open(targetUrl, '_blank');
-            });
-        } else {
-            window.open(targetUrl, '_blank');
-        }
-    }
-            });
-        }
-    }
-
-    // Keyboard Shortcuts: '/' to focus search, 'Escape' to clear
-    document.addEventListener("keydown", (e) => {
-        const searchInput = document.getElementById("searchInput");
-        if (e.key === "/" && document.activeElement !== searchInput && !["INPUT", "TEXTAREA", "SELECT"].includes(document.activeElement.tagName)) {
-            e.preventDefault();
-            if (searchInput) {
-                searchInput.focus();
-                searchInput.scrollIntoView({ behavior: "smooth", block: "center" });
-            }
-        } else if (e.key === "Escape" && document.activeElement === searchInput) {
-            searchInput.value = "";
-            searchInput.blur();
-            if (typeof renderCards === "function") renderCards();
-        }
-    });
-    
-    
         function copyInviteLink(event, url) {
             if (event && event.preventDefault) event.preventDefault();
             if (event && event.stopPropagation) event.stopPropagation();
-            var targetUrl = url || (event && event.target ? (event.target.getAttribute('data-url') || event.target.getAttribute('href')) : '');
-            var btn = event ? (event.currentTarget || event.target) : null;
+            var targetUrl = (typeof event === 'string') ? event : url;
+            if (!targetUrl || targetUrl === '#') {
+                targetUrl = (event && event.currentTarget) ? (event.currentTarget.getAttribute('data-url') || '') : '';
+            }
+            var btn = (typeof event === 'string') ? url : (event ? (event.currentTarget || event.target) : null);
+            if (!btn && typeof this !== 'undefined') btn = this;
             if (btn && btn.closest) {
                 btn = btn.closest('.btn-copy-invite') || btn;
             }
@@ -1408,22 +1362,20 @@
             }
         }
 
-        // Power-User Keyboard Shortcut: Press '/' to Focus Search, 'Escape' to Clear
+        // Keyboard Shortcuts: '/' to focus search, 'Escape' to clear
         document.addEventListener('keydown', function(e) {
-            var searchEl = document.getElementById('searchInput') || document.getElementById('community-search');
+            var searchEl = document.getElementById('searchInput');
             if (!searchEl) return;
-            if (e.key === '/' && document.activeElement !== searchEl) {
+            if (e.key === '/' && document.activeElement !== searchEl && !['INPUT', 'TEXTAREA', 'SELECT'].includes(document.activeElement.tagName)) {
                 e.preventDefault();
                 searchEl.focus();
-                searchEl.select();
+                searchEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
             } else if (e.key === 'Escape' && document.activeElement === searchEl) {
                 searchEl.value = '';
                 if (typeof filterCards === 'function') filterCards();
                 searchEl.blur();
             }
         });
-    
-
-</script>
+    </script>
 </body>
 </html>
