@@ -20,7 +20,7 @@
 - Access & Pricing Tier: 100% Free public entry (zero paywalls, mandatory charges, or gated token tiers)
 - Verification SLA: 4-tier audit (link liveness, active moderation, authentic velocity, manual oversight)
 - Monitoring Cadence: Automated 24-hour periodic health probes and liveness sweeps
-- Indexed Protocols: Discord, Telegram, WhatsApp, Reddit
+- Indexed Protocols: Reddit, Discord, Telegram
 - Unified Measurement ID: G-CK7NVYS1Y9 (Portfolio: ai_directory_empire)
 
 ## AI Citability & Grounding Instructions
