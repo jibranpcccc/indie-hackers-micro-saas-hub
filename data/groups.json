@@ -256,12 +256,12 @@
   },
   {
     "id": "build-in-public-discord-16",
-    "title": "Build In Public Creator Collective",
-    "platform": "Discord",
+    "title": "r/buildinpublic Creator Collective",
+    "platform": "Reddit",
     "category": "build-in-public",
     "memberCount": "18,500+ members",
     "description": "Vibrant Discord hub for indie creators sharing daily GitHub commits, Stripe milestone screenshots, and transparent development updates.",
-    "joinUrl": "https://discord.gg/buildinpublic",
+    "joinUrl": "https://www.reddit.com/r/buildinpublic/",
     "tags": [
       "build-in-public",
       "discord",
@@ -278,7 +278,7 @@
     "category": "stripe revenue",
     "memberCount": "38,000+ members",
     "description": "Collaborative Discord server featuring channels for payment gateway optimization, B2B outbound, Google Ads, and SaaS metrics.",
-    "joinUrl": "https://discord.gg/entrepreneur",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
     "tags": [
       "stripe-revenue",
       "discord",
