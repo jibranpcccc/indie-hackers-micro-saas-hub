@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:00:21 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                <item>
+                                    <item>
+      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
+      <link>https://t.me/infosec_alerts</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:21 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Cyber Security News Alerts (Telegram)</title>
       <link>https://t.me/cybersecurity_news</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20260919-1-2026-09-19</guid>
