@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 06:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:00:22 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                    <item>
+                                                        <item>
+      <title>📅 Today's Fresh Pick: r/kubernetes Cloud Native (Reddit)</title>
+      <link>https://www.reddit.com/r/kubernetes/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260925-1-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:22 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/devops Practitioners Hub (Reddit)</title>
       <link>https://www.reddit.com/r/devops/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260924-1-2026-09-24</guid>
