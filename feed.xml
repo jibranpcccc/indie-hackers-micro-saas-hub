@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:00:22 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
+      <link>https://www.reddit.com/r/rust/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:22 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/programming International (Reddit)</title>
       <link>https://www.reddit.com/r/programming/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:29:55 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Primary community for enterprise security analysts, blue teams, compliance frameworks, and threat intelligence.</description>
-    </item>
-<item>
-      <title>Indie Hackers &amp; Micro-SaaS Hub Initial Release</title>
-      <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
-      <pubDate>Fri, 04 Sep 2026 11:02:01 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
