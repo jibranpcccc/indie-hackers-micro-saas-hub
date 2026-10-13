@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:00:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
+      <link>https://discord.gg/rust-lang</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:23 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
       <link>https://www.reddit.com/r/rust/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:02:16 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Peer-reviewed technical infosec community sharing vulnerability advisories, exploit analysis, and security whitepapers.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/cybersecurity Defense Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/cybersecurity/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:29:55 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Primary community for enterprise security analysts, blue teams, compliance frameworks, and threat intelligence.</description>
     </item>
   </channel>
 </rss>
