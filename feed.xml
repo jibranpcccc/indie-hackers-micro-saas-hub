@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:00:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/golang/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:23 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Web Developers Network (Telegram)</title>
       <link>https://t.me/webdev_hub</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:14:26 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
-      <link>https://discord.gg/hackthebox</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:18 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
     </item>
   </channel>
 </rss>
