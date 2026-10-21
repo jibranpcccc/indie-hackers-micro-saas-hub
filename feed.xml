@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:00:24 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                    <item>
+                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
+      <link>https://discord.gg/typescript</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:24 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/typescript/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-forum-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:00:19 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
-      <link>https://t.me/infosec_alerts</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:00:21 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
     </item>
   </channel>
 </rss>
