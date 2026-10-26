@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:44:19 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Stack Overflow Python Questions (Forum)</title>
+      <link>https://stackoverflow.com/questions/tagged/python</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-forum-20261026-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:44:19 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: The world's largest repository of solved Python questions, debugging threads, and code snippets.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
       <link>https://github.com/vercel/next.js/discussions</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-github-20261025-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:00:23 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Guides, Dockerfile optimization, multi-stage builds, and Docker Compose architectures for modern microservices.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/kubernetes Cloud Native (Reddit)</title>
-      <link>https://www.reddit.com/r/kubernetes/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:00:22 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Discussions on Kubernetes cluster management, Helm charts, ingress controllers, service meshes, and K8s operators.</description>
     </item>
   </channel>
 </rss>
