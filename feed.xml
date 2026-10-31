@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:52:21 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
+      <link>https://www.reddit.com/r/science/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261031-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:52:21 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
       <link>https://www.reddit.com/r/technology/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261029-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 07:51:37 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps Global Discord (Discord)</title>
-      <link>https://discord.gg/devcord</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:13:36 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Real-time engineering chat covering Terraform, Ansible, Prometheus, Kubernetes, and production incident triage.</description>
     </item>
   </channel>
 </rss>
