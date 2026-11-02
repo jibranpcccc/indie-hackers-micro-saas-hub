@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:00:23 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
+      <link>https://discord.gg/tech</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261102-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:23 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261101-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:24:41 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
-      <link>https://t.me/devops_channel</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:00:24 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
     </item>
   </channel>
 </rss>
