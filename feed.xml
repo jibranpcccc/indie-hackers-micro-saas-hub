@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 06:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:00:24 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                <item>
+                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
+      <link>https://t.me/techcrunch</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20261103-1-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:00:24 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
       <link>https://discord.gg/tech</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261102-1-2026-11-02</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-forum-20261005-1-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:25 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
-      <link>https://t.me/cloud_native_hub</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-telegram-20261003-1-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 06:24:41 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
     </item>
   </channel>
 </rss>
