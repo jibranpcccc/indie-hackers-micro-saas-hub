@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-builders-reddit-1",
+    "title": "r/SaaS Founder & Builder Community",
+    "platform": "Reddit",
+    "category": "saas builders",
+    "memberCount": "240,000+ members",
+    "description": "Premier Reddit community for SaaS founders, operators, and developers discussing micro-SaaS architecture, pricing models, churn reduction, and scaling ARR.",
+    "joinUrl": "https://www.reddit.com/r/SaaS/",
+    "tags": [
+      "saas-builders",
+      "reddit",
+      "growth",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "indie-hackers-micro-saas-hub-forum-20261104-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "saas-builders-reddit-1",
-    "title": "r/SaaS Founder & Builder Community",
-    "platform": "Reddit",
-    "category": "saas builders",
-    "memberCount": "240,000+ members",
-    "description": "Premier Reddit community for SaaS founders, operators, and developers discussing micro-SaaS architecture, pricing models, churn reduction, and scaling ARR.",
-    "joinUrl": "https://www.reddit.com/r/SaaS/",
-    "tags": [
-      "saas-builders",
-      "reddit",
-      "growth",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "build-in-public-reddit-2",

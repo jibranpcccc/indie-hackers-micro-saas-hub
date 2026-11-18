@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:21:12 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/SaaS Founder &amp; Builder Community (Reddit)</title>
+      <link>https://www.reddit.com/r/SaaS/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#saas-builders-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:21:12 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Premier Reddit community for SaaS founders, operators, and developers discussing micro-SaaS architecture, pricing models, churn reduction, and scaling ARR.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-forum-20261104-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:00:26 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
-      <link>https://discord.gg/golang</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
     </item>
   </channel>
 </rss>
