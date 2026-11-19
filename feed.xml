@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:00:28 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/SideProject Showcase Community (Reddit)</title>
+      <link>https://www.reddit.com/r/SideProject/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#build-in-public-reddit-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:28 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Dedicated community for developers and makers showcasing side projects, receiving peer feedback, and launching bootstrapped products.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/SaaS Founder &amp; Builder Community (Reddit)</title>
       <link>https://www.reddit.com/r/SaaS/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#saas-builders-reddit-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-discord-20261021-1-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
-      <link>https://www.reddit.com/r/typescript/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261020-1-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 06:00:26 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
     </item>
   </channel>
 </rss>

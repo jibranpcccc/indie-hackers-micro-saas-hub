@@ -1,5 +1,24 @@
 [
   {
+    "id": "build-in-public-reddit-2",
+    "title": "r/SideProject Showcase Community",
+    "platform": "Reddit",
+    "category": "build-in-public",
+    "memberCount": "210,000+ members",
+    "description": "Dedicated community for developers and makers showcasing side projects, receiving peer feedback, and launching bootstrapped products.",
+    "joinUrl": "https://www.reddit.com/r/SideProject/",
+    "tags": [
+      "build-in-public",
+      "reddit",
+      "makers",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "saas-builders-reddit-1",
     "title": "r/SaaS Founder & Builder Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -872,24 +891,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "build-in-public-reddit-2",
-    "title": "r/SideProject Showcase Community",
-    "platform": "Reddit",
-    "category": "build-in-public",
-    "memberCount": "210,000+ members",
-    "description": "Dedicated community for developers and makers showcasing side projects, receiving peer feedback, and launching bootstrapped products.",
-    "joinUrl": "https://www.reddit.com/r/SideProject/",
-    "tags": [
-      "build-in-public",
-      "reddit",
-      "makers",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "bootstrapped-startups-reddit-3",
