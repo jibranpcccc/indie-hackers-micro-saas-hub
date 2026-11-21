@@ -1,5 +1,24 @@
 [
   {
+    "id": "stripe-revenue-reddit-4",
+    "title": "r/Entrepreneur Global Business Network",
+    "platform": "Reddit",
+    "category": "stripe revenue",
+    "memberCount": "3,400,000+ members",
+    "description": "One of the largest global entrepreneurship hubs covering revenue generation, operational scaling, e-commerce, and software ventures.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "stripe-revenue",
+      "reddit",
+      "business",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "bootstrapped-startups-reddit-3",
     "title": "r/startups Hub for Founders",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -912,24 +931,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "id": "stripe-revenue-reddit-4",
-    "title": "r/Entrepreneur Global Business Network",
-    "platform": "Reddit",
-    "category": "stripe revenue",
-    "memberCount": "3,400,000+ members",
-    "description": "One of the largest global entrepreneurship hubs covering revenue generation, operational scaling, e-commerce, and software ventures.",
-    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
-    "tags": [
-      "stripe-revenue",
-      "reddit",
-      "business",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
-  },
-  {
     "id": "bootstrapped-startups-reddit-5",
     "title": "r/bootstrap Self-Funded Founders",
     "platform": "Reddit",
@@ -1139,24 +1140,6 @@
       "build-in-public",
       "discord",
       "transparency",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
-  },
-  {
-    "id": "stripe-revenue-discord-17",
-    "title": "Entrepreneurship & E-Commerce Discord",
-    "platform": "Discord",
-    "category": "stripe revenue",
-    "memberCount": "38,000+ members",
-    "description": "Collaborative Discord server featuring channels for payment gateway optimization, B2B outbound, Google Ads, and SaaS metrics.",
-    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
-    "tags": [
-      "stripe-revenue",
-      "discord",
-      "revenue",
       "verified"
     ],
     "verified": true,
