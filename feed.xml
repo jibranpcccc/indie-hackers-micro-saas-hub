@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 08:44:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:42:34 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/indiebiz Independent Business Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/indiebiz/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#saas-builders-reddit-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:42:34 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Community for solo developers, micro-agency owners, and indie entrepreneurs trading growth strategies and launch tactics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/bootstrap Self-Funded Founders (Reddit)</title>
       <link>https://www.reddit.com/r/bootstrap/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#bootstrapped-startups-reddit-5-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-github-20261025-1-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
-      <link>https://users.rust-lang.org</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-github-20261024-1-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
     </item>
   </channel>
 </rss>
