@@ -4,10 +4,17 @@
     <title>Indie Hackers &amp; Micro-SaaS Hub</title>
     <link>https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:00:24 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/microsaas Niche Software Builders (Reddit)</title>
+      <link>https://www.reddit.com/r/microsaas/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#saas-builders-reddit-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:24 GMT</pubDate>
+      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Focused exclusively on micro-SaaS businesses generating $1k to $50k MRR, niche validation, API tooling, and hyper-targeted B2B software.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/webdev Fullstack Architecture Guild (Reddit)</title>
       <link>https://www.reddit.com/r/webdev/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#saas-builders-reddit-8-2026-11-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-reddit-20261029-1-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/#indie-hackers-micro-saas-hub-forum-20261027-1-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:23 GMT</pubDate>
-      <description>Newly verified community added to Indie Hackers &amp; Micro-SaaS Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>
 </rss>
